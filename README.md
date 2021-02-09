@@ -2,7 +2,7 @@
 
 # Opa, eai blz?! 
 
-## &#x1f4c8; O que vc precisa saber:
+## :floppy_disk: Resumo:
 
 :older_man: 27 anos.
 </br>
@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://github.com/Britooo/Britooo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=a9fef7&text_color=a9fef7&icon_color=a9fef7&bg_color=141321&layout=compact" />
+  <img height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=a9fef7&text_color=a9fef7&icon_color=a9fef7&bg_color=141321&layout=compact" />
 </a>
 
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
+<img height="194px" width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
