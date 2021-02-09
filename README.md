@@ -31,10 +31,6 @@
 </a>
 </br>
 
-## Piadoca para não perder a viagem 😜
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
 <!--
 **Britooo/Britooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
