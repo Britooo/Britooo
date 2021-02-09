@@ -8,7 +8,7 @@
 </br>
 :earth_americas: Brasileiro
 </br>
-:computer: Professor / Desenvolvedor na melhor Faculdade de Tecnologia -> @BandTec 
+:computer: Professor / Desenvolvedor na melhor Faculdade de Tecnologia -> [@BandTec](https://github.com/BandTec)
 </br>
 :coffee: Atualmente trabalho com Java
 </br>
