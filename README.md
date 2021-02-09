@@ -2,7 +2,7 @@
 
 # Opa, eai blz?! 
 
-## :floppy_disk: Resumo:
+## :crystal_ball: whoami
 
 :older_man: 27 anos.
 </br>
