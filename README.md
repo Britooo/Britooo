@@ -28,15 +28,16 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
 <a href="https://github.com/Britooo/Britooo">
     <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=radical"/>
 </a>
-
+</br>
+</br>
 <a href="https://github.com/Britooo/Britooo">
-  <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=a9fef7&text_color=a9fef7&icon_color=a9fef7&bg_color=141321&layout=compact" />
+  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=a9fef7&text_color=a9fef7&icon_color=a9fef7&bg_color=141321&layout=compact" />
 </a>
 </br>
 </br>
-<p align="center">
   <img height="194px" width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
 </p>
