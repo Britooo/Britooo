@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/britooo/britooo/main/cover.png "Header")](https://www.linkedin.com/in/diegobritolima/)
 
-# Opa, eai blz?! 
+# Fala jovem padawan, tranquilo?!
 
 ## :crystal_ball: whoami
 
@@ -30,14 +30,14 @@
 
 <p align="center">
 <a href="https://github.com/Britooo/Britooo">
-    <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=radical"/>
+    <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=gruvbox"/>
 </a>
 </br>
 </br>
 <a href="https://github.com/Britooo/Britooo">
-  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=a9fef7&text_color=a9fef7&icon_color=a9fef7&bg_color=141321&layout=compact" />
+  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
 </a>
 </br>
 </br>
-  <img height="194px" width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
+  <img  width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=true&theme=default" />
 </p>
