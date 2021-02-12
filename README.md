@@ -1,8 +1,21 @@
-[![Header](https://raw.githubusercontent.com/britooo/britooo/main/cover.png "Header")](https://www.linkedin.com/in/diegobritolima/)
+[![Header](https://raw.githubusercontent.com/britooo/britooo/main/header.png "Header")](https://www.linkedin.com/in/diegobritolima/)
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/diegobritolima/">
+    <img src="svg/social/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.instagram.com/brito.zip/">
+    <img src="svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+</br>
+</br>
 
 # Fala jovem padawan, tranquilo?!
 
-## :crystal_ball: whoami
+## :octocat: whoami
 
 :older_man: 27 anos.
 </br>
@@ -14,17 +27,56 @@
 </br>
 🌱 Eterno aprendiz.
 
+</br>
 
-## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java.js&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=58D68D)
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=BDC3C7)
-![](https://img.shields.io/badge/Data-SqlServer-informational?style=flat&logo=sqlserver.js&logoColor=white&color=BDC3C7)
+## :hammer: Langs
+<a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+</a> 
 
+<a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+</br>
+</br>
+
+## 🔧 Tecnologias e Ferramentas
+
+<a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+</a>  
+
+<a href="#">
+    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+</br>
+</br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -32,12 +84,16 @@
 <a href="https://github.com/Britooo/Britooo">
     <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=gruvbox"/>
 </a>
+
 </br>
 </br>
+
 <a href="https://github.com/Britooo/Britooo">
   <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
 </a>
+
 </br>
 </br>
+
   <img  width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=true&theme=default" />
 </p>
