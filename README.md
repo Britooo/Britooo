@@ -27,8 +27,6 @@
 </br>
 🌱 Eterno aprendiz.
 
-</br>
-
 ## :hammer: Langs
 <a href="#">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
