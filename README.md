@@ -28,15 +28,15 @@
 🌱 Eterno aprendiz.
 
 ## :hammer: Langs
-<a href="#">
+<a href="https://www.java.com/pt-BR/">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 </a> 
 
-<a href="#">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-<a href="#">
+<a href="https://www.python.org/">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>  
 
@@ -45,19 +45,23 @@
 
 ## 🔧 Tecnologias e Ferramentas
 
-<a href="#">
+<a href="https://pt-br.reactjs.org/">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-<a href="#">
+<a href="https://nodejs.org/en/">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 </a>  
 
-<a href="#">
+<a href="https://www.gnu.org/software/bash/">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="#">
+<a href="https://www.docker.com/">
+    <img src="svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+</a> 
+
+<a href="https://code.visualstudio.com/">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 </a> 
 
