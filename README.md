@@ -13,7 +13,7 @@
 </br>
 </br>
 
-# Fala jovem padawan, tranquilo?!
+# Fala jovem padawan, tranquilo?
 
 ## :octocat: whoami
 
