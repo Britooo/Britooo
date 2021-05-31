@@ -58,7 +58,7 @@
 </a>
 
 <a href="https://www.docker.com/">
-    <img src="svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
 </a> 
 
 <a href="https://code.visualstudio.com/">
