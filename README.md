@@ -85,6 +85,4 @@
 </br>
 </br>
 
-  <img height="194px"  width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
-
 </p>
