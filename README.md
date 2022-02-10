@@ -1,12 +1,8 @@
-[![Header](https://raw.githubusercontent.com/britooo/britooo/main/header.png "Header")](https://www.linkedin.com/in/diegobritolima/)
+[![Header](https://raw.githubusercontent.com/britooo/britooo/main/capa.png "Header")](https://www.linkedin.com/in/diegobritolima/)
 
 <p align="right">
   <a href="https://www.linkedin.com/in/diegobritolima/">
     <img src="svg/social/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.instagram.com/brito.zip/">
-    <img src="svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -17,7 +13,7 @@
 
 ## :octocat: whoami
 
-:older_man: 27 anos.
+:older_man: 28 anos.
 </br>
 :earth_americas: Brasileiro
 </br>
