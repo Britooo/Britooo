@@ -6,8 +6,6 @@
   </a>
 </p>
 
-# Fala jovem padawan, tranquilo?
-
 ## :octocat: whoami
 
 :older_man: 30 anos.
