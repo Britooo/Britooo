@@ -8,7 +8,7 @@
 </br>
 :earth_americas: Brasileiro
 </br>
-:computer: Professor / Supervisor
+:computer: Professor & Dev na SPTECH
 
 </br>
 
