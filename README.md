@@ -9,10 +9,11 @@
 :earth_americas: Brasileiro
 </br>
 :computer: Professor / Supervisor
+
 </br>
+
 Trabalho com:
 - ☕ Java
-- 🐍 Python
 - 🐹 Golang
+- 🐍 Python
 - ☁️ AWS
-</br>
